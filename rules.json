@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4ea1c809220f45a0afc6b19013e334a7f9cafc8c33b330f86678b2d00c0d900a602cd942be8e9fd4878f3e884f08a25285029644c17ce29af62fcf9a739545b6",
+    "type": "weekly",
+    "days": [
+      "Mon",
+      "Tue"
+    ],
+    "interval": [
+      {
+        "start": "14:00",
+        "end": "15:00"
+      }
+    ]
+  }
+]
