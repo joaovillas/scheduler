@@ -1,6 +1,10 @@
 # scheduler
 
-
+### How to run
+- yarn 
+- yarn start (build environment)
+- yarn dev (dev environment)
+- or use docker to run : docker-compose up 
 ### How to create a rule ?
 
 - If you want to create a weekly rule
